@@ -8,8 +8,6 @@ echo "Nebude-li pršet,\n";
 echo "nezmoknem,\n";
 echo "nebude-li pršet,\n";
 echo "nezmoknem!\n";
-<<<<<<< HEAD
-=======
 
 echo "\n";
 
@@ -20,4 +18,4 @@ echo "Půjdem na sluníčko,\n";
 echo "uschneme,\n";
 echo "půjdem na sluníčko,\n";
 echo "uschneme!\n";
->>>>>>> druha-sloka
+
