@@ -7,4 +7,4 @@ echo "pes oknem.\n"
 echo "Nebude-li pršet,\n";
 echo "nezmoknem,\n";
 echo "nebude-li pršet,\n";
-echo "nezmoknem!";
+echo "nezmoknem!\n";
